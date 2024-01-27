@@ -1,4 +1,4 @@
-package magazine
+package datafile
 
 type subscriber struct {
 	name   string
